@@ -22,3 +22,9 @@ Please enter a username:
 If you will type y means yes, it will use proxies which are in proxy.txt 
 If you will type n means no, it will brute from your ip which is not recommended.
 Now, don't touch anything. It will try to find if one of the passwords in pass.txt is the real password of victim.
+
+# Proxy
+these proxies are outdated. Try to find new proxies. 
+Tip: Simpy search free proxies (Personally, I use ecosia.org You search and plant trees for the money that they earned via your search.)
+proxy looks like x.x.x.x:x
+x can be one digit or even up to 4 digits.
