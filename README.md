@@ -1,5 +1,5 @@
 # DISCLAIMER: Education purpose only. I am not responsible for your actions.
-<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet"><a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/shyngysdev"><img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a Taco"><span style="margin-left:15px;font-size:28px !important;">Buy me a Taco</span></a>
+<a href="https://www.buymeacoffee.com/shyngysdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 # instabrute
 Instagram account bruteforcer with proxy rotation + brute passwords database.
 # Download
